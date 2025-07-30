@@ -1,5 +1,7 @@
 # Interactive Particle System
 
+![Interactive Particle System](https://i.imgur.com/wVZAiOx.jpeg)
+
 This is a fun, interactive particle system created with p5.js. You can play with the particles by moving your cursor, and customize the simulation using various controls. The most exciting feature is the ability to apply color palettes from famous artists to the particles.
 
 ## Features
