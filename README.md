@@ -27,3 +27,6 @@ This is a fun, interactive particle system created with p5.js. You can play with
 1.  Clone or download the repository.
 2.  Open the `index.html` file in a web browser.
 3.  That's it! Move your mouse and play with the sliders to see the effects.
+
+## Demo
+https://creative-travesseiro-db9276.netlify.app/
